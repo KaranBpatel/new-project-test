@@ -22,3 +22,5 @@ git rebasr tetaetwagaflkasdjfakjf
 test git rebase take
 git merge testt rebasing
 git amend testte 5326 forgot to add
+git commit test amm
+git forgot add this commit as wll
