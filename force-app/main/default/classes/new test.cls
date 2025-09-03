@@ -10,3 +10,5 @@ git amend changes
 
 git reset test commit 
 reset comd
+
+git test revert
