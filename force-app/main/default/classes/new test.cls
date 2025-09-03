@@ -21,3 +21,4 @@ git merge rebase conflict test
 git rebasr tetaetwagaflkasdjfakjf
 test git rebase take
 git merge testt rebasing
+git amend testte 5326 forgot to add
