@@ -17,6 +17,6 @@ git merge confilce testsetset253636test
 
 new branch cherrpick merge conflict
 git rebase branch 1 
-
-git merge testt rebasing
 git merge rebase conflict test
+test git rebase take
+git merge testt rebasing
