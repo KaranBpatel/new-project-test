@@ -1,4 +1,5 @@
 git update at firsr
+git test commit 29
 updated
 update test666
 update test36
@@ -26,3 +27,4 @@ git amend testte 5326 forgot to add
 git commit test amm
 git forgot add this commit as wll
 git commit test
+git last commit test
