@@ -32,3 +32,5 @@ git commit test amm
 git forgot add this commit as wll
 git commit test
 git last commit test
+
+git middle commit to remove
