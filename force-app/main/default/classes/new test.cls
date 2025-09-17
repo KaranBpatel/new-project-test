@@ -34,3 +34,5 @@ git commit test
 git last commit test
 
 git middle commit to remove
+
+git one very good commit
