@@ -36,3 +36,8 @@ git last commit test
 git middle commit to remove
 
 git one very good commit
+git merge rebase conflict test
+
+git cherrypicktest from diff branch
+
+git pull from another branch test
