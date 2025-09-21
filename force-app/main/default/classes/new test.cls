@@ -40,4 +40,5 @@ git merge rebase conflict test
 
 git cherrypicktest from diff branch
 
-git pull from another branch test
+git pull from another branch test 
+pull from other branch
