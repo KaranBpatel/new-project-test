@@ -26,3 +26,5 @@ git merge rebase conflict test
 git cherrypicktest from diff branch
 
 git pull from another branch test
+
+git commit in git-merge-test branch fetch to other branch
